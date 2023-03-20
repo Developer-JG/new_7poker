@@ -47,10 +47,5 @@ def main():
 
     print(player_1.deck)
 
-
-
-
-
-
 if __name__ == "__main__":
     main()
